@@ -1,0 +1,16 @@
+{
+  "name": "gendomtree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genDomTree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "jsdom": "^20.0.3",
+    "ngraph.graph": "^20.0.1"
+  }
+}
